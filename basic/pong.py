@@ -1,7 +1,6 @@
 # Author: Yakoob Khan
 # Date: 01/30/2018
-# Lab Assignment 1
-# A program for the basic game of pong
+# Basic pong
 
 from cs1lib import *
 

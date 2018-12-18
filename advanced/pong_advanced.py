@@ -1,8 +1,7 @@
 # Author: Yakoob Khan
 # Date: 01/30/2018
-# Lab Assignment 1
-# A program for the game of pong
-# Extra credit version
+# Pong game with extra features
+
 
 from cs1lib import *
 from random import randint
